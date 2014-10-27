@@ -1,8 +1,6 @@
 groups
 ====
 
-[![Build Status](https://travis-ci.org/aks/puppet-groups.png?branch=master)](https://travis-ci.org/aks/puppet-groups)
-
 
 Overview
 --------
